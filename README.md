@@ -8,5 +8,7 @@
 *  sea
 *  street
 
+### An example of an image
+![image](https://github.com/miladrasooli1304/intel-image-dataset/blob/master/archive_4/seg_test/seg_test/glacier/20092.jpg)
 
 [link dataset](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)
